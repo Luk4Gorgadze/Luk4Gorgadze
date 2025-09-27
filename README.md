@@ -14,6 +14,6 @@ Currently, I am working as **AstraZeneca** contractor on a **data platform for s
 - **Frontend:** React, Next.js, TypeScript  
 - **Backend:** Python (FastAPI, Django, Flask), Node.js, Prisma  
 - **Data & Visualization:** Plotly Dash, Power BI, Pandas, NumPy  
-- **Databases & Messaging:** PostgreSQL, RabbitMQ  
+- **Databases & Messaging:** PostgreSQL, BullMQ  
 - **APIs & Integrations:** REST, GraphQL, Microsoft Graph API 
 - **Cloud & Tools:** AWS, Docker, Git, CI/CD  
